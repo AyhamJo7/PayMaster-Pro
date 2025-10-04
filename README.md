@@ -1,4 +1,5 @@
 # PayMaster Pro - Modern Payroll Management System
+![My Project Logo](paymaster.png)
 
 A comprehensive C++ application for managing employee payroll information, generating salary reports, and maintaining employee records.
 
